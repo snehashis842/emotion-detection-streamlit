@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 streamlit==1.16.0
 opencv-python-headless==4.5.3.56
 keras==2.10.0
 tensorflow==2.10.0
 numpy==1.23.0
 pillow==9.5.0
-=======
-tensorflow==2.16.1
-keras>=3.0.0
-numpy<2.0.0,>=1.23.5
-Pillow==9.0.0
-streamlit==1.16.0
-opencv-python-headless==4.8.0.76
->>>>>>> 6a20a2c0a2f83f931d52e80a5fc291dc497fb940
